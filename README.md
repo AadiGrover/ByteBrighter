@@ -17,13 +17,9 @@ Performance Dashboard: Instructors have access to a dashboard where they can mon
 Technologies Used:
 
 Frontend: React, Tailwind CSS
-
 Backend: Node.js, Express.js
-
 Database: MongoDB
-
 Payment Integration: Razorpay
-
 File Management: Cloudinary
 
 Explore ByteBrighter here: https://bytebrighter.netlify.app/
