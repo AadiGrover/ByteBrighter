@@ -1,6 +1,8 @@
 ByteBrighter
 
+
 Welcome to ByteBrighter, an advanced ed-tech platform built with the MERN stack! This platform is designed to provide a seamless learning experience for students and an efficient teaching environment for instructors.
+
 Key Features =>
 
 For Students: 
@@ -13,9 +15,15 @@ Course Creation: Instructors can create and manage courses, adding detailed sect
 Performance Dashboard: Instructors have access to a dashboard where they can monitor the performance of their courses, including metrics on student engagement and feedback.
 
 Technologies Used:
+
 Frontend: React, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Payment Integration: Razorpay
+
 File Management: Cloudinary
-Explore ByteBrighter here: ByteBrighter
+
+Explore ByteBrighter here: https://bytebrighter.netlify.app/
