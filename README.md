@@ -3,7 +3,7 @@ ByteBrighter
 Welcome to ByteBrighter, an advanced ed-tech platform built with the MERN stack! This platform is designed to provide a seamless learning experience for students and an efficient teaching environment for instructors.
 <br>
 <br>
-Key Features =>
+Key Features :
 <br>
 For Students: 
 Browse and Purchase Courses: Students can easily explore a wide range of courses and purchase them using the integrated Razorpay API.
