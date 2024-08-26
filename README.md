@@ -10,13 +10,12 @@ Browse and Purchase Courses: Students can easily explore a wide range of courses
 Profile Customization: Students can upload their profile photos to personalize their accounts.
 Ratings and Reviews: After completing a course, students can leave ratings and reviews to help others make informed decisions.
 <br>
-<br>
 For Instructors: 
 Course Creation: Instructors can create and manage courses, adding detailed sections and lectures to provide comprehensive learning material.
 Performance Dashboard: Instructors have access to a dashboard where they can monitor the performance of their courses, including metrics on student engagement and feedback.
-
+<br>
 Technologies Used:
-
+<br>
 Frontend: React, Tailwind CSS <br>
 Backend: Node.js, Express.js<br>
 Database: MongoDB<br>
