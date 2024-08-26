@@ -1,7 +1,7 @@
 ByteBrighter
 <br>
-<br>
 Welcome to ByteBrighter, an advanced ed-tech platform built with the MERN stack! This platform is designed to provide a seamless learning experience for students and an efficient teaching environment for instructors.
+<br>
 <br>
 Key Features =>
 <br>
